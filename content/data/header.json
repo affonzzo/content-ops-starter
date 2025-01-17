@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Experimentar de Graça",
-            "altText": "Sign up",
+            "altText": "Experimentar de Graça",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
